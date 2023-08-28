@@ -1,13 +1,13 @@
-# 작업 이름 (이것 지우고 적어주시면 됩니다)
+# Task Name: (delete this and write Task Name)
 
-## 주요 변경 내용
+## Major Changes
 -
 
-## 참고 사항
+## Notes
 -
 
-## 남은 작업 내용
+## Remaining Tasks
 -
 
-## 참고용 시연 사진
+## Reference Images
 -
